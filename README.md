@@ -30,7 +30,7 @@ Enter Weight (kg): 55
 Enter Height (m): 1.60
 
 ------ Result ------
-Name: Meenakshi
+Name: Saleema
 Age: 20
 BMI: 21.48
 Status: Normal Weight
